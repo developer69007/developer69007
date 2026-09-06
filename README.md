@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ```
 > LOCATION: Los Santos, San Andreas (a.k.a. my code editor)
-> CLASS: First-Year B.Tech CSE Student
-> ROLE: Full-Stack Web Developer
+> CLASS: Second-Year B.Tech CSE Student
+> ROLE: Tech Enthusiast
 > CURRENT OBJECTIVE: Ship projects, grind hackathons, level up skills
 > RESPECT: ████████░░ 80%
 ```
